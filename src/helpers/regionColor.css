@@ -1,0 +1,24 @@
+.europe {
+    color: yellow;
+}
+
+.africa {
+    color: cornflowerblue;
+}
+
+.asia {
+    color: red;
+}
+
+.americas {
+    color: mediumseagreen;
+}
+
+.oceania {
+    color: mediumpurple;
+}
+
+.unknown {
+   color: grey;
+}
+
