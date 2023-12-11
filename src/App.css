@@ -1,0 +1,15 @@
+.populationText {
+    color: black;
+}
+
+.flagImages{
+    width: 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.error {
+    color: red;
+}
